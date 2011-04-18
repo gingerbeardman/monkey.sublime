@@ -5,6 +5,6 @@
 
 	"windows":
 	{
-		"cmd": ["trans_winnt.exe"]
+		"cmd": ["trans_winnt.exe", "-target=html5", "\"$file\""]
 	}
 }
