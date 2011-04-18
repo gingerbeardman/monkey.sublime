@@ -20,7 +20,7 @@
 		\#end | wend | until | forever | next | end | '\#end\s?region
 	)\b</string>
 	<key>name</key>
-	<string>monkey</string>
+	<string>Monkey</string>
 	<key>patterns</key>
 	<array>
 		<dict>
