@@ -10,14 +10,14 @@ Meanwhile why not read about [monkey.tmbundle](https://github.com/gingerbeardman
 ## Changelog
 
 **TO DO**  
-- build system path issue
+- build system path issue  
 - better docs  
 
 **2011-04-19**  
-- added multiple command line parameters, thanks to Adam Woodall
+- added multiple command line parameters, thanks to Adam Woodall  
 
 **2011-04-18**  
-- added build system (path to trans needs to be hard coded - you will have to edit the Monkey.sublime-build file)
+- added build system (path to trans needs to be hard coded - you will have to edit the Monkey.sublime-build file)  
 
 **2011-04-08**  
 - Initial release  
