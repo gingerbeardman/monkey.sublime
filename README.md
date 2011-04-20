@@ -40,6 +40,7 @@ There is currently no Linux support as Monkey does not currently support it.
 - added workaround for path issue  
 - added installation notes  
 - fixes for some broken snippets  
+- added file_regex so errors can be located  
 
 **2011-04-19**  
 - added multiple command line parameters, thanks to Adam Woodall  
