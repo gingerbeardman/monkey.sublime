@@ -1,6 +1,7 @@
 {
 	"cmd": ["trans_macos", "-target=html5", "-run", "\"$file\""],
 	"working_dir": "${project_path:${folder:${file_path}}}",
+	"file_regex": "(...*?)<([0-9]*)>",
 	"selector": "source.monkey",
 
 	"windows":
