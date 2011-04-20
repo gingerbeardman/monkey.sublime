@@ -30,6 +30,10 @@ You will need to restart for the changes to take effect.
 
 Support for Microsoft Windows has been added but is currently untested. Please let me know how it works for you.
 
+## Linux
+
+There is currently no Linux support as Monkey does not currently support it.
+
 ## Changelog
 
 **2011-04-20**  
