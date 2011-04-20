@@ -1,5 +1,5 @@
 {
-	"cmd": ["/Applications/monkey/bin/trans_macos", "-target=html5", "-run", "\"$file\""],
+	"cmd": ["trans_macos", "-target=html5", "-run", "\"$file\""],
 	"working_dir": "${project_path:${folder:${file_path}}}",
 	"selector": "source.monkey",
 
