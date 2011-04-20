@@ -39,6 +39,7 @@ There is currently no Linux support as Monkey does not currently support it.
 **2011-04-20**  
 - added workaround for path issue  
 - added installation notes  
+- fixes for some broken snippets  
 
 **2011-04-19**  
 - added multiple command line parameters, thanks to Adam Woodall  
@@ -48,3 +49,9 @@ There is currently no Linux support as Monkey does not currently support it.
 
 **2011-04-08**  
 - Initial release  
+
+## To do
+
+- support for tab [completions](http://sublimetext.info/docs/extensibility/completions.html)  
+- support for context sensitive help through a [command](http://sublimetext.info/docs/extensibility/plugins.html#types-of-commands)  
+
