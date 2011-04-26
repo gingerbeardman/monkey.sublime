@@ -28,7 +28,7 @@ You will need to restart for the changes to take effect.
 
 ## Windows
 
-Support for Microsoft Windows has been added but is currently untested. Please let me know how it works for you.
+Support for Microsoft Windows is present. You will need to add your monkey/bin folder to the system PATH.
 
 ## Linux
 
