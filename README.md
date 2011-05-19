@@ -36,6 +36,9 @@ There is currently no Linux support as Monkey does not currently support it.
 
 ## Changelog
 
+**2011-05-19**  
+- updated language definition to the latest one from monkey.tmbundle    
+
 **2011-04-20**  
 - added workaround for path issue  
 - added installation notes  
