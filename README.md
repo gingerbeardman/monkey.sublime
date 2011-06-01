@@ -36,6 +36,9 @@ There is currently no Linux support as Monkey does not currently support it.
 
 ## Changelog
 
+**2011-06-01**  
+- added one build system per target, should default to HTML5 but may need specifying manually  
+
 **2011-05-31**  
 - updated language definition to the latest one from monkey.tmbundle (v40)  
 
