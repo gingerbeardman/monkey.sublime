@@ -1,0 +1,11 @@
+{
+	"cmd": ["trans_macos", "-target=stdcpp", "-run", "\"$file\""],
+	"working_dir": "${project_path:${folder:${file_path}}}",
+	"file_regex": "(...*?)<([0-9]*)>",
+	"selector": "source.monkey",
+
+	"windows":
+	{
+		"cmd": ["trans_winnt.exe", "-target=stdcpp", "-run", "\"$file\""]
+	}
+}
