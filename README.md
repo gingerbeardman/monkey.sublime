@@ -22,7 +22,7 @@ Next, add the shell path to the system-wide environment:
 
     defaults write ${HOME}/.MacOSX/environment PATH "${PATH}"
 
-Alternatively, you can manually edit `~/.MacOSX/environment.plist` or use the  [RCEnvironment](http://www.rubicode.com/Software/RCEnvironment/) preference pane.
+Alternatively, you can manually edit `~/.MacOSX/environment.plist` or use the  [RCEnvironment](http://www.rubicode.com/Software/RCEnvironment/) preference pane. Either way, the goal is to add your monkey/bin path to the PATH variable in your environment.
 
 You will need to restart for the changes to take effect.
 
