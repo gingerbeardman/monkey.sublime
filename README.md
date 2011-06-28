@@ -6,13 +6,13 @@ This bundle lets you to use the multi-platform editor [Sublime Text](http://www.
 ## Features
 
 **Auto Completion of Keywords**  
-Press the Tab key to cycle through all matches after typing part of a keyword, Option+Escape will present a list of matches for you to choose from
+Press the Tab key to expand to the first match after typing part of a keyword, Option+Escape will present a list of matches for you to choose from
 
 **Build Systems**  
 Quick and easy build by pressing ⌘B, current build system can be set in the Tools menu
 
 **Syntax Colouring**
-
+...and more to come
 
 ## Mac OS X
 
