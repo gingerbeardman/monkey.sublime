@@ -3,7 +3,16 @@ monkey.sublime
 
 This bundle lets you to use the multi-platform editor [Sublime Text](http://www.sublimetext.com) as an IDE for the [monkey programming language](http://www.monkeycoder.co.nz). It is based on [monkey.tmbundle](https://github.com/gingerbeardman/monkey.tmbundle).
 
-You can read about [monkey.tmbundle](https://github.com/gingerbeardman/monkey.tmbundle) to find out what features are supported.
+## Features
+
+**Auto Completion of Keywords**  
+Press the Tab key to cycle through all matches after typing part of a keyword, Option+Escape will present a list of matches for you to choose from
+
+**Build Systems**  
+Quick and easy build by pressing ⌘B, current build system can be set in the Tools menu
+
+**Syntax Colouring**
+
 
 ## Mac OS X
 
