@@ -18,7 +18,7 @@ Quick and easy build by pressing ⌘B, current build system can be set in the To
 
 ### Installation
 
-Unzip to "Application Support/Sublime Text".
+Unzip to "~/Library/Application Support/Sublime Text/Packages/".
 
 Next, you will need to add your monkey/bin folder to your system wide path. This is currently a bit awkward but will hopefully become easier as Sublime Text continues to be improved.
 
