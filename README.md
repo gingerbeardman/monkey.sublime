@@ -47,6 +47,7 @@ There is currently no Linux support as Monkey does not currently support it.
 
 **2011-08-08**  
 - Updated language definition to the latest one from monkey.tmbundle, lots of changes:  
+- Added else/elseif snippet  
 - Reduced number of foldable elements  
 - Added keyEquivalent ^⌥⇧+M to activate bundle  
 - Renamed bundle from monkey to Monkey  
