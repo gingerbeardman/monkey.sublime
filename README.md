@@ -45,27 +45,46 @@ There is currently no Linux support as Monkey does not currently support it.
 
 ## Changelog
 
+**2011-08-08**  
+- Updated language definition to the latest one from monkey.tmbundle, lots of changes:  
+- Reduced number of foldable elements  
+- Added keyEquivalent ^⌥⇧+M to activate bundle  
+- Renamed bundle from monkey to Monkey  
+- Removed preprocessor grammar  
+- Removed framework grammar  
+- Removed module grammar  
+- Added better if/then/elseif/else/endif handling  
+- Added bitwise complement operator  
+- Removed superstrict reference  
+- Tidied block comment grammar  
+- Replaced instances of (?:(?:^|;)\s*) with neater \b (regexp boundary)  
+- Removed references to integer number symbol %  
+- Corrected PI constants regexp  
+- Removed pointerops grammar  
+- Removed unused types from types grammar  
+  
+  
 **2011-06-01**  
-- added one build system per target, should default to HTML5 but may need specifying manually  
-
+- Added one build system per target, should default to HTML5 but may need specifying manually  
+  
 **2011-05-31**  
-- updated language definition to the latest one from monkey.tmbundle (v40)  
-
+- Updated language definition to the latest one from monkey.tmbundle (v40)  
+  
 **2011-05-19**  
-- updated language definition to the latest one from monkey.tmbundle (v39)  
-
+- Updated language definition to the latest one from monkey.tmbundle (v39)  
+  
 **2011-04-20**  
-- added workaround for path issue  
-- added installation notes  
-- fixes for some broken snippets  
-- added file_regex so errors can be located  
-
+- Added workaround for path issue  
+- Added installation notes  
+- Fixes for some broken snippets  
+- Added file_regex so errors can be located  
+  
 **2011-04-19**  
-- added multiple command line parameters, thanks to Adam Woodall  
-
+- Added multiple command line parameters, thanks to Adam Woodall  
+  
 **2011-04-18**  
-- added build system (path to trans needs to be hard coded - you will have to edit the Monkey.sublime-build file)  
-
+- Added build system (path to trans needs to be hard coded - you will have to edit the Monkey.sublime-build file)  
+  
 **2011-04-08**  
 - Initial release  
 
