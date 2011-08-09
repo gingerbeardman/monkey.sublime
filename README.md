@@ -3,6 +3,8 @@ monkey.sublime
 
 This bundle lets you to use the multi-platform editor [Sublime Text](http://www.sublimetext.com) as an IDE for the [monkey programming language](http://www.monkeycoder.co.nz). It is based on [monkey.tmbundle](https://github.com/gingerbeardman/monkey.tmbundle).
 
+Created by Matt Sephton, [http://www.gingerbeardman.com/monkey/](http://www.gingerbeardman.com/monkey/)
+
 ## Features
 
 **Auto Completion of Keywords**  
@@ -43,6 +45,16 @@ Support for Microsoft Windows is present. You will need to add your monkey/bin f
 
 There is currently no Linux support as Monkey does not currently support it.
 
+## Support
+You can talk about the bundle on the [official monkey forum](http://www.monkeycoder.co.nz/Community/posts.php?topic=593)
+
+## Requirements
+- Sublime Text 2 [http://www.sublimetext.com/2](http://www.sublimetext.com/2)
+- monkey [http://www.monkeycoder.co.nz](http://www.monkeycoder.co.nz)
+
+## License
+monkey.sublime is made available under a [Creative Commons Attribution-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0).
+
 ## Changelog
 
 **2011-08-08**  
@@ -63,7 +75,6 @@ There is currently no Linux support as Monkey does not currently support it.
 - Corrected PI constants regexp  
 - Removed pointerops grammar  
 - Removed unused types from types grammar  
-  
   
 **2011-06-01**  
 - Added one build system per target, should default to HTML5 but may need specifying manually  
