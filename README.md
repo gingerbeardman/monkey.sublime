@@ -7,20 +7,24 @@ Created by Matt Sephton, [http://www.gingerbeardman.com/monkey/](http://www.ging
 
 ## Features
 
+**Syntax Colouring**  
+Easily see the difference between keywords, constants, strings, comments, numbers and functions/classes/methods
+
 **Auto Completion of Keywords**  
 Press the Tab key to expand to the first match after typing part of a keyword, Option+Escape will present a list of matches for you to choose from
 
 **Build Systems**  
 Quick and easy build by pressing ⌘B, current build system can be set in the Tools menu
 
-**Syntax Colouring**
 ...and more to come
 
 ## Mac OS X
 
 ### Installation
 
-Unzip to "~/Library/Application Support/Sublime Text/Packages/".
+Unzip to:
+
+	~/Library/Application Support/Sublime Text/Packages/
 
 Next, you will need to add your monkey/bin folder to your system wide path. This is currently a bit awkward but will hopefully become easier as Sublime Text continues to be improved.
 
@@ -56,6 +60,12 @@ You can talk about the bundle on the [official monkey forum](http://www.monkeyco
 monkey.sublime is made available under a [Creative Commons Attribution-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0).
 
 ## Changelog
+
+**2011-08-09**  
+- Removed extraneous JOY constants  
+- Added missing JoyX/Y/Z keywords  
+- Added TARGET const  
+- Removed binary integer grammar which was resulting in incorrect display of numerical values  
 
 **2011-08-08**  
 - Updated language definition to the latest one from monkey.tmbundle, lots of changes:  
