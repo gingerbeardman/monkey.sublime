@@ -61,6 +61,9 @@ monkey.sublime is made available under a [Creative Commons Attribution-Share Ali
 
 ## Changelog
 
+**2011-08-11**  
+- Added LANG const  
+
 **2011-08-09**  
 - Removed extraneous JOY constants  
 - Added missing JoyX/Y/Z keywords  
