@@ -22,6 +22,8 @@ Quick and easy build by pressing ⌘B, current build system can be set in the To
 
 ### Installation
 
+Please check that the download is named `monkey.sublime` and not something else. You may have to rename it.
+
 Unzip to:
 
 	~/Library/Application Support/Sublime Text/Packages/
