@@ -7,14 +7,20 @@ Created by Matt Sephton, [http://www.gingerbeardman.com/monkey/](http://www.ging
 
 ## Features
 
-**Syntax Colouring**  
-Easily see the difference between keywords, constants, strings, comments, numbers and functions/classes/methods
+**Syntax Highlighting**  
+Easily see keywords, constants, strings, comments, numbers and functions/classes/methods in your code
 
 **Auto Completion of Keywords**  
 Press the Tab key to expand to the first match after typing part of a keyword, Option+Escape will present a list of matches for you to choose from
 
+**Expand Keywords into Code**  
+Press the Tab key to expand one keyword into one or more lines of code, subsequent presses of tab intelligently jump you through the resulting code allowing you to fill in multiple parameters with minimal key strokes
+
 **Build Systems**  
 Quick and easy build by pressing ⌘B, current build system can be set in the Tools menu
+
+**Easy Source Navigation**  
+Navigate around your source using the index of functions, classes and methods
 
 ...and more to come
 
