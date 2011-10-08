@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>DrawText "${1:text\$}", ${2:x},${3:y}$4</string>
+	<string>DrawText "${1:text$}", ${2:x},${3:y}$4</string>
 	<key>name</key>
 	<string>DrawText</string>
 	<key>scope</key>
