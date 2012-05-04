@@ -69,6 +69,9 @@ monkey.sublime is made available under a [Creative Commons Attribution-Share Ali
 
 ## Changelog
 
+2012-05-04  
+- Added DrawPoint (v50)  
+
 2011-10-08  
 - Added FirstNode, LastNode, NextNode, PrevNode, Exp (v45c)  
 - Added DisableKeyboard, EnableKeyboard (v45)  
