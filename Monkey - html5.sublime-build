@@ -6,6 +6,6 @@
 
 	"windows":
 	{
-		"cmd": ["trans_winnt.exe", "-target=html5", "-run", "\"$file\""]
+		"cmd": ["transcc_winnt.exe", "-target=Html5_Game", "-run", "\"$file\""]
 	}
 }
